@@ -1,20 +1,30 @@
-Soham Surendra Sonawane
-Daulatnagar Dhankawadi 
-Pune, Maharashtra, 411043
-soham.sonawane3@gmail.com
-9881730279
-23/09/2024
+Dear Janet,
 
-I am writing to express my enthusiasm for the Delivery Data Analyst at Turing, as advertised on Turing Careers. As a passionate individual eager to develop my skills in technology and innovation, I believe that this opportunity at Turing aligns perfectly with my career aspirations and commitment to excellence.
+I hope this email finds you well. I have analyzed the provided dataset and would like to share the key findings and actionable recommendations:
 
-I have pursued my bachelors degree in computer science, where I have honed my skills in languages like Python & data analysis knowledge. My projects have allowed me to apply theoretical concepts in practical settings, enhancing my problem-solving abilities. For instance, Sales Analysis for retail company identify trends in sales and identify a solution oriented focus on improving the growth. The six phase used in data analysis learned it in google data analytics course had implementation use visual to support points.
+Key Findings:
 
-What excites me most about Turing is the chance to work alongside industry leaders in a collaborative environment that fosters learning and innovation. I am particularly drawn to Turing’s commitment to diversity and inclusion, as I believe diverse perspectives drive creativity and lead to groundbreaking solutions. I am eager to contribute my unique viewpoint and learn from a team dedicated to pushing technological boundaries.
+High Churn Likelihood for Frequent Technical Issues:
 
-In addition to my technical skills, I possess strong communication and teamwork abilities, which I believe are crucial for success in collaborative projects. I have been in an organization where I learned the value of effective communication and adaptability.
+Customers with six or more tech tickets have significantly higher chances of churn:
 
-I am excited about the possibility of contributing to Turing’s mission while growing both personally and professionally through this opportunity. Thank you for considering my application. I look forward to the opportunity to discuss how my background and enthusiasm .
+6 tickets: 81.94% churn probability.
+7 tickets: 96.55% churn probability.
+8+ tickets: 100% churn probability.
 
-Warm regards,
+Customer Demographics and Payment Insights:
 
-Soham Surendra Sonawane.
+Senior Citizens have a higher churn rate and may require focused retention strategies.
+Customers using "Electronic Check" as their payment method are more likely to churn.
+
+Tech Support: Customers who lacked adequate tech support were more likely to churn.
+
+Overall Churn Rate: The churn rate stands at 26.54%, which is concerning and warrants immediate attention.
+
+Prioritize Technical Issue Resolution: Address issues for customers with six or more tickets to mitigate churn risk.
+Enhance Customer Support for Senior Citizens: Tailor support strategies to cater to this segment.
+Review Payment Options: Investigate the correlation between "Electronic Check" and churn, and promote alternative payment methods.
+Strengthen Tech Support Availability: Ensure tech support is readily available and effective.
+Customer Satisfaction Surveys: Conduct surveys to identify root causes of dissatisfaction.
+
+Reducing the churn rate will not only improve customer retention but also significantly impact overall business performance.
